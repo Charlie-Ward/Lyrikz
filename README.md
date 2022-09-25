@@ -1,1 +1,3 @@
-# Lyrikz-Spotify-Clone
+# Lyriks - A spotify clone
+
+## Coming Soon
