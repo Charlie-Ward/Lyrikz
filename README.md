@@ -1,3 +1,3 @@
-# Lyriks - A spotify clone
+# Lyriks
 
-## Coming Soon
+## A music software built using react
